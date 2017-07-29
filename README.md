@@ -1,1 +1,1 @@
-# Kaggle-Competition-Attempt-Titanic-Machine-Learning-from-Disaster
+# My attempt in Kaggle's "Titanic Machine Learning from Disaster" competition.
